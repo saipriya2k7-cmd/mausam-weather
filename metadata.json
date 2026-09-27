@@ -1,0 +1,6 @@
+{
+  "name": "Mausam - Personalized IMD Weather Portal",
+  "description": "Profile-driven personalized meteorological service inspired by the India Meteorological Department, prioritizing weather indicators and tailored advisories for health, fitness, farming, commuters, and more.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
